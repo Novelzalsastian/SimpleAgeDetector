@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleAgeDetector</string>
+    <string name="enter_your_year_of_birth">Enter your Year of Birth</string>
+    <string name="year">Year:</string>
+    <string name="calculate">Calculate</string>
+    <string name="age">AGE:</string>
+</resources>
